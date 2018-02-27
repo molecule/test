@@ -1,7 +1,6 @@
-yoyoyoyo # te extra bonus messing up st
-yoyoyoyo 
-yoyoyoyo merge conflict inbound!!!!
-yoyoyoyo 
-yoyoyoyo more merge conflicts! 
-yoyoyoyo 
-yoyoyoyo 
+# te extra bonus messing up st
+
+merge conflict inbound!!!! I'm editing this line, poo on you.
+
+more merge conflicts! 
+
